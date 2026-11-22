@@ -1,0 +1,6 @@
+{
+  "name": "kaeidos-bench-fixture",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:24",
+  "postCreateCommand": "npm ci",
+  "forwardPorts": [3000]
+}
