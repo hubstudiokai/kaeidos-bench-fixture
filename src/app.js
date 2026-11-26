@@ -19,7 +19,7 @@ const PAGE = `<!doctype html>
       <h1>Atelier du banc</h1>
       <p>Réparations de vélos, du mardi au samedi.</p>
     </main>
-    <footer></footer>
+    <footer>Atelier du banc, 12 rue des Essais, 75011 Paris</footer>
   </body>
 </html>
 `;
